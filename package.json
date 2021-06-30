@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
   "version": "0.0.1",
-  "description": "Jaxon Burninghams Portfolio",
-  "productName": "My Portfolio",
+  "description": "A summary of Jaxon Burninghams work, experience, and accomplishments.",
+  "productName": "Jaxon Burningham",
   "author": "jaxonburn@gmail.com",
   "private": true,
   "scripts": {

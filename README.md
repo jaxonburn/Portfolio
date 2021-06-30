@@ -2,4 +2,4 @@
 
 Jaxon Burninghams Portfolio
 
-A summary of my work, accomplishments, and experience. 
+A summary of my work, accomplishments, and experience.

@@ -8,3 +8,25 @@ export default {
   name: 'App'
 }
 </script>
+
+<style>
+  :root {
+    --background: #f8f8f8;
+    --dark: #303032;
+  }
+
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--background);
+  }
+</style>
