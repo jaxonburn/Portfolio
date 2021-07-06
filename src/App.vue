@@ -10,6 +10,9 @@ export default {
 </script>
 
 <style>
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
   :root {
     --background: #f8f8f8;
     --dark: #303032;
@@ -28,5 +31,14 @@ export default {
     align-items: center;
     justify-content: center;
     background: var(--background);
+  }
+
+  .rubikFont {
+    font-family: 'Rubik', sans-serif;
+  }
+
+  a {
+    color: black;
+    text-decoration: none;
   }
 </style>
