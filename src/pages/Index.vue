@@ -34,6 +34,7 @@
             <q-tab name="about" label="About Me" />
             <q-tab name="experience" label="Experience/Education" />
             <q-tab name="resume" label="Resume" />
+            <q-tab name="work" label="Relevant Work" />
           </q-tabs>
 
           <q-separator />
@@ -66,7 +67,13 @@
                 </a>
               </div>
             </q-tab-panel>
+            <q-tab-panel name="work">
+              <div class="flex flex-center q-pa-sm" style="min-height: 465px;">
+
+              </div>
+            </q-tab-panel>
           </q-tab-panels>
+
         </q-card>
       </div>
     </div>
