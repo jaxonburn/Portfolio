@@ -53,7 +53,7 @@
       </q-timeline-entry>
 
       <q-timeline-entry
-        title="Officially Hired"
+        title="First Development Job"
         subtitle="August 4, 2020"
         side="left"
         icon="fas fa-briefcase"
@@ -74,11 +74,21 @@
         </div>
       </q-timeline-entry>
       <q-timeline-entry
+        title="Started at Neutron Interactive as a Backend Developer"
+        subtitle="August 1st, 2021"
+        side="left"
+        icon="fas fa-briefcase"
+      >
+        <div>
+          Due to my enrollment at the University of Utah I needed a job that was closer to school and so found a job as a backend python developer at Neutron Interactive. Here I work with the backend team using Django Rest Framework to optimize endpoints, improve queries to the database, and create new endpoints.
+        </div>
+      </q-timeline-entry>
+      <q-timeline-entry
         title="Currently"
         side="right"
       >
         <div>
-          That leads us to today. I am still currently working for Ionrev and am planning on attending the University of Utah this fall!
+            I am still currently working at Neutron Interactive and attending the University of Utah.
         </div>
       </q-timeline-entry>
     </q-timeline>

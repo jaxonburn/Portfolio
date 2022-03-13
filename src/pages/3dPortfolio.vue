@@ -110,8 +110,8 @@
             size: 30,
             height: 5,
           };
-          let textGeoGame = new THREE.TextGeometry('Baxus Studios Presents', geometrySetting);
-          let textGeoJavascript = new THREE.TextGeometry('The JavaScript History Tour', geometrySetting);
+          let textGeoGame = new THREE.TextGeometry('penis', geometrySetting);
+          let textGeoJavascript = new THREE.TextGeometry('stuff ', geometrySetting);
 
           let textMatGame = new THREE.MeshLambertMaterial({color: 0xcccccc});
           let textMatJavascript = new THREE.MeshLambertMaterial({color: 0xcccccc});

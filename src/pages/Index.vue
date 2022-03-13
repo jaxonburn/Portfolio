@@ -34,7 +34,6 @@
             <q-tab name="about" label="About Me" />
             <q-tab name="experience" label="Experience/Education" />
             <q-tab name="resume" label="Resume" />
-            <q-tab name="work" label="Relevant Work" />
           </q-tabs>
 
           <q-separator />
