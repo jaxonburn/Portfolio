@@ -43,8 +43,8 @@
               <div class="text-h3 text-weight-medium"><span style="border-bottom: 1px solid rgba(185, 185, 185, 1);">About Me</span></div>
               <div style="display: grid; grid-template-columns: 2fr 1fr;" class="q-mt-sm">
               <div class="text-h6 text-weight-light"  style="line-height: 2em;">
-                A little about me! I'm 19 years old and am currently enrolled at University of Utah for a major in computer science. I often spend my time working on side projects, gaming, or bouldering. I love seeing great design and finding cool things done in javascript.
-                I am a constant learner and enjoy taking online courses from Udemy, CodeAcademy, and Pluralsight to further expand my knowledge and experience. I have worked on everything from social media web apps, to card trading livestream web apps.
+                A little about me! I'm 19 years old and am currently enrolled at University of Utah for a major in computer science. I often spend my time working on side projects, gaming, or bouldering.
+                I am a constant learner and enjoy taking online courses from Udemy, CodeAcademy, and Pluralsight to further expand my knowledge and experience. I worked as a FullStack Developer for about a year and a half using Vue.js, Node.js and MongoDB. After that I switched to backend development using Django Rest Framework in which I create new endpoints, optimize existing endpoints, and write tests to ensure quality.
                 <br>
                  Feel free to contact me at <span class="text-blue-3 cursor-pointer">jaxonburn@gmail.com</span>
               </div>
